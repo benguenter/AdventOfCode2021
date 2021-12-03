@@ -8,6 +8,10 @@
     <ItemGroup>
         <Compile Include="Day1.fs" />
         <Content Include="Day1-input.txt" />
+        <Compile Include="Day2.fs" />
+        <Content Include="Day2-input.txt" />
+        <Compile Include="Day3.fs" />
+        <Content Include="Day3-input.txt" />
     </ItemGroup>
 
 </Project>
