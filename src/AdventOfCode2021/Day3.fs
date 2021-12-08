@@ -1,6 +1,5 @@
 module AdventOfCode2021.Day3
 
-
 open System
 open System.IO
 
